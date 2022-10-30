@@ -1,4 +1,11 @@
 ## Hi there 👋
+### About Me
+
+- `Skidder` && `Javaer` && `Pythoner` && `WhiteHater`
+- Team: `StreamLgiht`
+- QQGroup Of Team:`NzcwNDc3MTQ0`
+- My QQ:`MTUxNDAzNzY2MA==`
+### Info
 <div align="center"> <img src="https://activity-graph.herokuapp.com/graph?username=VoPlAz&theme=xcode" /> </div>
 <br>
 
