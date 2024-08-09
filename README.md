@@ -1,12 +1,12 @@
 ## Hi there 👋
 ### About Me
 
-- `Javaer` && `WhiteHater`
+- `Hacker Enthus1ast`
 - Team: `StreamLgiht`
 - Website: <a href="https://teki3l.lol">TEKI3L Group</a>
 - Email: `streamlgiht@outlook.com`
-- My QQ:`U2FsdGVkX1+2dfZ5cP3fcv9i9AwOEBlHIkRVQjKtAB4=`(Key -> 123456)<br>
-  Learing Rust awa
+<br>
+  Learing Rust
 ### 
 ### Info
  
